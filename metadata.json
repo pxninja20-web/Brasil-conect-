@@ -1,0 +1,8 @@
+{
+  "name": "BrasilConnect Premium",
+  "description": "Uma plataforma avançada de comunicação social que oferece números virtuais brasileiros gratuitos para chamadas e ativação de WhatsApp, democratizando o acesso à telefonia através de um sistema sustentado por anúncios.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
